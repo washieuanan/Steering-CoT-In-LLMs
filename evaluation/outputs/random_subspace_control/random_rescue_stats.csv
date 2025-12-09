@@ -1,0 +1,7 @@
+mode,layer,param_value,param_type,locality,gamma,n,acc_original,acc_lesion,acc_rescue,delta_lesion,delta_rescue,recovery_rate,mcnemar_rescue_p,significant
+rescue,25,0.5,beta,answer,0.5,100,0.38,0.39,0.41,0.010000000000000009,0.019999999999999962,,0.625,
+rescue,25,1.0,beta,answer,0.5,100,0.37,0.39,0.41,0.020000000000000018,0.019999999999999962,,0.625,
+rescue,25,2.0,beta,answer,0.5,100,0.29,0.3,0.31,0.010000000000000009,0.010000000000000009,,1.0,
+rescue,25,0.5,beta,cot,0.5,100,0.36,0.37,0.37,0.010000000000000009,0.0,,1.0,
+rescue,25,1.0,beta,cot,0.5,100,0.37,0.37,0.35,0.0,-0.020000000000000018,,0.6875,
+rescue,25,2.0,beta,cot,0.5,100,0.3,0.32,0.33,0.020000000000000018,0.010000000000000009,,1.0,

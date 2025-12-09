@@ -1,0 +1,4 @@
+layer,n,baseline_acc,lesion_acc,delta,wrong_to_right,right_to_wrong,net_gain
+25,50,,,-0.040000000000000036,0,0,0
+26,50,,,0.040000000000000036,0,0,0
+27,50,,,0.020000000000000018,0,0,0

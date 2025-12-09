@@ -1,0 +1,7 @@
+n_discordant,wrong_to_right,right_to_wrong,net_gain,p_value,significant_0.05,significant_0.01,interpretation,mode,alpha_filter,n_total,condition,significant
+23,15,8,7.0,0.21003961563110352,False,False,No significant difference,add,positive,450,add_positive,
+0,0,0,,1.0,,,No discordant pairs,add,negative,0,add_negative,False
+23,15,8,7.0,0.21003961563110352,False,False,No significant difference,add,,450,add_all,
+23,13,10,3.0,0.6776394844055176,False,False,No significant difference,random,positive,450,random_positive,
+0,0,0,,1.0,,,No discordant pairs,random,negative,0,random_negative,False
+23,13,10,3.0,0.6776394844055176,False,False,No significant difference,random,,450,random_all,

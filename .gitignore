@@ -1,0 +1,13 @@
+venv/
+mystuff/
+all_old_results/
+results/
+vm_results/
+__pycache__/
+*.pyc
+.DS_Store
+.pytest_cache/
+.venv/
+scripts/generate_mock_random_results.py
+scripts/generate_mock_vm_results.py
+scripts/generate_mock_phase_b_scaled.py     
